@@ -1,0 +1,28 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Sensitive data
+*.env
+.env.local
+credentials.json
+secrets/
+
+# Build artifacts
+*.pdf
+*.docx
+!docs/**/*.pdf
+!docs/**/*.docx
