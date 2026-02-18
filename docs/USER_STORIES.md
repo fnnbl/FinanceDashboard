@@ -33,7 +33,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 0. Benutzerverwaltung & Authentifizierung
 
-### US-000: Benutzerregistrierung 🔴
+### US-000: Benutzerregistrierung 🔴 — 3h
 **Als** neuer Besucher
 **möchte ich** mich registrieren können,
 **um** einen persönlichen Account zu erstellen und meine Budget-Pläne zu verwalten.
@@ -47,7 +47,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-001: Benutzer-Login 🔴
+### US-001: Benutzer-Login 🔴 — 3h
 **Als** registrierter Benutzer
 **möchte ich** mich einloggen können,
 **um** auf meine Budget-Pläne zuzugreifen.
@@ -60,7 +60,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-002: Benutzer-Logout 🔴
+### US-002: Benutzer-Logout 🔴 — 1h
 **Als** eingeloggter Benutzer
 **möchte ich** mich ausloggen können,
 **um** meine Session zu beenden und meinen Account zu schützen.
@@ -74,7 +74,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 1. Budget-Plan Verwaltung
 
-### US-010: Budget-Plan anlegen 🔴
+### US-010: Budget-Plan anlegen 🔴 — 3h
 **Als** eingeloggter Benutzer
 **möchte ich** einen neuen Budget-Plan anlegen können,
 **um** meine monatlichen Einnahmen und Ausgaben zu planen.
@@ -88,7 +88,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-011: Budget-Pläne anzeigen 🔴
+### US-011: Budget-Pläne anzeigen 🔴 — 4h
 **Als** eingeloggter Benutzer
 **möchte ich** alle meine Budget-Pläne auf der Startseite sehen,
 **um** zwischen verschiedenen Plänen zu wählen oder einen neuen anzulegen.
@@ -105,7 +105,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-012: Budget-Plan bearbeiten 🔴
+### US-012: Budget-Plan bearbeiten 🔴 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** einen bestehenden Plan bearbeiten können,
 **um** Name oder Beschreibung anzupassen.
@@ -117,7 +117,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-013: Budget-Plan löschen 🔴
+### US-013: Budget-Plan löschen 🔴 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** einen Plan löschen können,
 **um** nicht mehr benötigte Pläne zu entfernen.
@@ -132,7 +132,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 2. Budget-Posten Verwaltung (innerhalb eines Plans)
 
-### US-020: Budget-Posten anlegen 🔴
+### US-020: Budget-Posten anlegen 🔴 — 5h
 **Als** eingeloggter Benutzer
 **möchte ich** innerhalb eines Plans einen neuen Budget-Posten (Einnahme oder Ausgabe) anlegen können,
 **um** meine monatlichen Finanzen zu planen.
@@ -159,7 +159,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-021: Budget-Posten anzeigen 🔴
+### US-021: Budget-Posten anzeigen 🔴 — 5h
 **Als** eingeloggter Benutzer
 **möchte ich** alle Budget-Posten eines Plans in einer Übersicht sehen,
 **um** meine geplanten Einnahmen und Ausgaben zu überblicken.
@@ -182,7 +182,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-022: Budget-Posten bearbeiten 🔴
+### US-022: Budget-Posten bearbeiten 🔴 — 3h
 **Als** eingeloggter Benutzer
 **möchte ich** einen bestehenden Budget-Posten bearbeiten können,
 **um** Änderungen vorzunehmen oder Fehler zu korrigieren.
@@ -196,7 +196,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-023: Budget-Posten löschen 🔴
+### US-023: Budget-Posten löschen 🔴 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** einen Budget-Posten löschen können,
 **um** nicht mehr relevante Posten zu entfernen.
@@ -211,7 +211,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 3. Kategorienverwaltung
 
-### US-030: Kategorien anzeigen 🔴
+### US-030: Kategorien anzeigen 🔴 — 3h
 **Als** eingeloggter Benutzer
 **möchte ich** alle verfügbaren Kategorien sehen,
 **um** meine Budget-Posten korrekt zu kategorisieren.
@@ -246,7 +246,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-031: Kategorie anlegen 🟡
+### US-031: Kategorie anlegen 🟡 — 3h
 **Als** eingeloggter Benutzer
 **möchte ich** eigene Kategorien erstellen können,
 **um** meine Budget-Posten individuell zu organisieren.
@@ -259,7 +259,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-032: Kategorie bearbeiten 🟡
+### US-032: Kategorie bearbeiten 🟡 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** Kategorien umbenennen können,
 **um** meine Struktur anzupassen.
@@ -271,7 +271,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-033: Kategorie löschen 🟡
+### US-033: Kategorie löschen 🟡 — 3h
 **Als** eingeloggter Benutzer
 **möchte ich** nicht mehr benötigte Kategorien löschen können,
 **um** meine Kategorienliste übersichtlich zu halten.
@@ -285,7 +285,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 4. Auswertungen & Visualisierungen (innerhalb eines Plans)
 
-### US-040: Monatliche Übersicht 🔴
+### US-040: Monatliche Übersicht 🔴 — 4h
 **Als** eingeloggter Benutzer
 **möchte ich** eine monatliche Übersicht meines Budget-Plans sehen,
 **um** zu verstehen, wie viel ich pro Monat einnehme und ausgebe.
@@ -301,7 +301,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-041: Kategorieauswertung 🔴
+### US-041: Kategorieauswertung 🔴 — 4h
 **Als** eingeloggter Benutzer
 **möchte ich** sehen, wie viel ich pro Kategorie monatlich ausgebe/einnehme,
 **um** meine Ausgabenstruktur zu verstehen.
@@ -315,7 +315,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-042: Kategorieverteilung als Diagramm 🔴
+### US-042: Kategorieverteilung als Diagramm 🔴 — 5h
 **Als** eingeloggter Benutzer
 **möchte ich** ein Diagramm sehen, das meine Ausgabenverteilung visualisiert,
 **um** auf einen Blick zu erkennen, wofür ich am meisten Geld ausgebe.
@@ -329,7 +329,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-043: Plan-Dashboard 🔴
+### US-043: Plan-Dashboard 🔴 — 5h
 **Als** eingeloggter Benutzer
 **möchte ich** beim Öffnen eines Plans sofort die wichtigsten Kennzahlen sehen,
 **um** schnell einen Überblick zu bekommen.
@@ -347,7 +347,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-044: Budget-Posten Tabelle mit Sortierung 🟡
+### US-044: Budget-Posten Tabelle mit Sortierung 🟡 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** die Budget-Posten nach verschiedenen Kriterien sortieren können,
 **um** bestimmte Posten schnell zu finden.
@@ -366,7 +366,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## 5. Erweiterte Funktionen (Optional)
 
-### US-050: Budget-Posten nach Beschreibung suchen 🟡
+### US-050: Budget-Posten nach Beschreibung suchen 🟡 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** innerhalb eines Plans nach Budget-Posten suchen können,
 **um** schnell bestimmte Einträge zu finden.
@@ -379,7 +379,7 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ---
 
-### US-051: Budget-Posten nach Kategorie filtern 🟡
+### US-051: Budget-Posten nach Kategorie filtern 🟡 — 2h
 **Als** eingeloggter Benutzer
 **möchte ich** Budget-Posten nach Kategorie filtern können,
 **um** alle Posten einer bestimmten Kategorie zu sehen.
@@ -435,53 +435,55 @@ Alle Beträge werden auf **monatliche Kosten** umgerechnet und in Auswertungen d
 
 ## Zusammenfassung
 
-**Must-Have (🔴):** 14 User Stories
+**Must-Have (🔴):** 16 User Stories — 54h geplant
 
-**Should-Have (🟡):** 5 User Stories
+**Should-Have (🟡):** 6 User Stories — 14h geplant
 
-**Nice-to-Have (🟢):** 3 User Stories
+**Nice-to-Have (🟢):** 3 User Stories — nicht eingeplant
 
-**Gesamt:** 22 User Stories
+**Gesamt:** 25 User Stories — **68h Entwicklungszeit (Must-Have + Should-Have)**
 
 ---
 
 ## Priorisierung für MVP (Minimum Viable Product)
 
-### Phase 1 - Authentifizierung & Basis (Sprint 1):
-- US-000: Benutzerregistrierung
-- US-001: Benutzer-Login
-- US-002: Benutzer-Logout
-- US-010: Budget-Plan anlegen
-- US-011: Budget-Pläne anzeigen
+### Phase 1 - Authentifizierung & Basis (Sprint 1) — 14h:
+- US-000: Benutzerregistrierung (3h)
+- US-001: Benutzer-Login (3h)
+- US-002: Benutzer-Logout (1h)
+- US-010: Budget-Plan anlegen (3h)
+- US-011: Budget-Pläne anzeigen (4h)
 
-### Phase 2 - Plan-Verwaltung (Sprint 2):
-- US-012: Budget-Plan bearbeiten
-- US-013: Budget-Plan löschen
-- US-030: Kategorien anzeigen (mit Standard-Kategorien)
+### Phase 2 - Plan-Verwaltung (Sprint 2) — 7h:
+- US-012: Budget-Plan bearbeiten (2h)
+- US-013: Budget-Plan löschen (2h)
+- US-030: Kategorien anzeigen mit Standard-Kategorien (3h)
 
-### Phase 3 - Budget-Posten CRUD (Sprint 3):
-- US-020: Budget-Posten anlegen
-- US-021: Budget-Posten anzeigen
-- US-022: Budget-Posten bearbeiten
-- US-023: Budget-Posten löschen
+### Phase 3 - Budget-Posten CRUD (Sprint 3) — 15h:
+- US-020: Budget-Posten anlegen (5h)
+- US-021: Budget-Posten anzeigen (5h)
+- US-022: Budget-Posten bearbeiten (3h)
+- US-023: Budget-Posten löschen (2h)
 
-### Phase 4 - Auswertungen & Visualisierungen (Sprint 4):
-- US-040: Monatliche Übersicht
-- US-041: Kategorieauswertung
-- US-042: Kategorieverteilung als Diagramm
-- US-043: Plan-Dashboard
+### Phase 4 - Auswertungen & Visualisierungen (Sprint 4) — 18h:
+- US-040: Monatliche Übersicht (4h)
+- US-041: Kategorieauswertung (4h)
+- US-042: Kategorieverteilung als Diagramm (5h)
+- US-043: Plan-Dashboard (5h)
 
-**MVP fertig nach Phase 4**
+**MVP fertig nach Phase 4 — 54h**
 
-### Phase 5 - Erweiterte Features:
-- US-031: Kategorie anlegen
-- US-032: Kategorie bearbeiten
-- US-033: Kategorie löschen
-- US-044: Sortierung
-- US-050: Suche
-- US-051: Filter
+### Phase 5 - Erweiterte Features — 14h:
+- US-031: Kategorie anlegen (3h)
+- US-032: Kategorie bearbeiten (2h)
+- US-033: Kategorie löschen (3h)
+- US-044: Sortierung (2h)
+- US-050: Suche (2h)
+- US-051: Filter (2h)
 
-### Phase 6 - Nice-to-Have:
+**Alle Must-Have + Should-Have nach Phase 5 — 68h**
+
+### Phase 6 - Nice-to-Have (optional):
 - US-052: Plan duplizieren
 - US-053: PDF Export
 - US-054: CSV Export
